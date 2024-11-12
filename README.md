@@ -22,7 +22,7 @@
 
   </head>
   <body>
-    <iframe src="https://share.streamlit.io/realblockchain/calculadora-de-pension/main_app.py">
+    <iframe src="https://realblockchain/calculadora-de-pension/main_app.py">
         Your browser doesn't support iframes
     </iframe>
   </body>
