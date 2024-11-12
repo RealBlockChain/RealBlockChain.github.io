@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +28,7 @@
 </head>
 <body>
     <!-- Iframe que muestra la app de Streamlit -->
-    <iframe src="https://share.streamlit.io/realblockchain/calculadora-de-pension/main_app.py">
+    <iframe src="https://calculador-de-pension.streamlit.app">
         Your browser doesn't support iframes.
     </iframe>
 
@@ -43,7 +44,3 @@
     <script async src="https://www.google-analytics.com/analytics.js"></script>
 </body>
 </html>
-
-  </body>
-</html>
-
